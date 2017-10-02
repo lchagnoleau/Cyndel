@@ -3,4 +3,7 @@
 *.tsv
 *.xml
 # backup files
- *.bak
+*.bak
+Cyndel-cache.lib
+Cyndel.kicad_pcb-bak
+_saved_Cyndel.sch
