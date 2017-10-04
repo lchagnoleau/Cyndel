@@ -153,3 +153,4 @@ LibName121=/home/lchagnoleau/KiCad/lbr/kicad-library/library/Xicor
 LibName122=/home/lchagnoleau/KiCad/lbr/kicad-library/library/xilinx
 LibName123=/home/lchagnoleau/KiCad/lbr/kicad-library/library/zetex
 LibName124=/home/lchagnoleau/KiCad/lbr/kicad-library/library/Zilog
+LibName125=/home/lchagnoleau/KiCad/lbr/bluey-cache

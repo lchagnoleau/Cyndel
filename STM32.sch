@@ -100,10 +100,10 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 3
-Title "Cyndel"
-Date "2017-10-02"
-Rev "0.1"
+Sheet 3 3
+Title ""
+Date ""
+Rev ""
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -111,26 +111,14 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L LSM6DS3 U1
-U 1 1 59D4A70B
-P 4450 1450
-F 0 "U1" H 4050 950 60  0000 C CNN
-F 1 "LSM6DS3" H 4200 1950 60  0000 C CNN
-F 2 "bluey:LSM6DS3" H 4405 1450 60  0001 C CNN
-F 3 "" H 4405 1450 60  0000 C CNN
-	1    4450 1450
+L STM32F410RBTx U?
+U 1 1 59D5614F
+P 5750 3850
+F 0 "U?" H 3150 5775 50  0000 L BNN
+F 1 "STM32F410RBTx" H 8350 5775 50  0000 R BNN
+F 2 "LQFP64" H 8350 5725 50  0001 R TNN
+F 3 "" H 5750 3850 50  0001 C CNN
+	1    5750 3850
 	1    0    0    -1  
 $EndComp
-$Sheet
-S 950  950  750  3950
-U 59D4F57E
-F0 "led-network" 60
-F1 "led-network.sch" 60
-$EndSheet
-$Sheet
-S 3700 3800 1700 1800
-U 59D56142
-F0 "STM32" 60
-F1 "STM32.sch" 60
-$EndSheet
 $EndSCHEMATC
